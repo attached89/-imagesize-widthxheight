@@ -1,0 +1,2 @@
+# -imagesize-widthxheight
+imagesize:widthxheight
